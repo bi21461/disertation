@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pd-prod-bristol-e0be",
+  "private_key_id": "6c1ab6198c004c86fb8456f7bf636177a74695b9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD6HeHLjk1hHazo\nk+z4LmkDpOYR7c7R8nBPzz5xWfJOwOR4oDdzt9/3q/RlLi7M1MRzZD9RdWtkWS9b\nheXZyJF0Y5ij0oDWJpthZBx1cq5U71GeSxx3CIq1Cxy5XRDwRhDCHWUQeBT/7aeo\nEVCkPhfeRDwBFTgC0XYwb366vPzjRfJOPAaFfhRy+nmjIT9V6zFsCY3IL+a7kyTj\nczWG/XDoEr7rbqj/sFeSKlAc+cz2DXpZcQ8N9buHVaZZwOsiBzZTUABx4omz4k+m\n2Pu5KH2S+AXaly2wiH0L63iV4lMnwQMaF5YTHAyZTzceGe2nHM8AR2LLgaOd4Rnp\n2ygVfHkTAgMBAAECggEAOOecjCHjpAFK6h1hsDNq7AvT1mdrAyQr/lRx6fsjYFyN\nfo5BH4BJogFK2MxRlIOh8Hjx2Pgkh0+tMR79JPf3c+oG+9q0OkTNXDKZMPV3CVbr\nlF6VatWULU2KavfsFyZxwKBMcptHd9TbrKbH2J5R8t1GY56uwCFkyO9M/3Jo/NHl\ngmtXCLBho1O+jtUO/9JSKI8Z9kjcgIoK8Vnf4SxcR3JctDEt8DPYsiy3JxrZEm2q\nJlZsRAM/WUKqLpFBi/SClax8/HQ9enhgQWFYT1BVEzDZ8xDCElEOPAaOoy9y3BBj\nencMcknSFo+HghJKvSQU0crsL0SE/p5hOvxbUiOz9QKBgQD+0hhiDoeUlyelD3iN\nXbqMv+UXqeBLJdLbJQJId+uJXeaOqOl+EigdRyLJss91xjSgI7bUUUhcQDDq6ct7\nZInQxzsEt3yBO6qr53lU5YuRQCOJ0xtl0mOaIaIwSMu+nmIG2MI2YLq3XFDt1FUg\n+PqjdIVurfvMEt7zNRnW1Y49HQKBgQD7RjaxPyFh3FUCL2pFba5qeKFxjaoMuPbV\nqlbXmL6x94L7/wNkinPxs6RtjF/05/tRajq2czx0DWmBCFpR+VK9RQSMuxcMOdyU\nU0Zz5nq5ZBhGOQEWgnNFZVLcKEayJP8ElbGFnhlRuq2BIzXaUEpLhFhSLn2w0wSO\ntdOj4Eon7wKBgF+UYnz1Qjmj8MTi5q7vxzdgCwgzOeQ2Db8RRKf2Ay0FQaOlC9+z\n48QHmK7bGSHt9HNUshE1Y9TmZvLWOvLPpTngYOzF/jdjMANG0aXca9tRmYLq4k3w\n+lcn4nQF+hZHxjEXQNGwuphoUhrDGCNEAI8q95mqPNYxBdtnwYdplu6pAoGAAQEo\n2tCLy55b4KRb4mcr2VUeIBwW3/IlWnlR247KxF9e8K72ToKXMBItyBpVj98VjB/G\nmFAhn70l/NQRuF4szIDoIb/lubDJhvZGQ9RaDT+vMSitLm/bEh3zlNm8Xp3zPwty\nKDyXkVITu35uiq7jfSXMTJfO/NP7Iq7rZ65P3ZUCgYEAygm7YzlpMED05faH+GpG\nfc0UPP/r1YMopw2mNs17eklZlQFPb66hCysKsc0qJHL6/R+K0/R5Ke93GsWkdydK\n4rSz0WciUCKGnAUeNeQ50sUCfjGdxKTAjESDjwsFpQBJzwFAVlHuUNreydZeGSAn\n6vLVCt8cW/gBydblInP3U3E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigqueryapiaccount@pd-prod-bristol-e0be.iam.gserviceaccount.com",
+  "client_id": "102272142703251053970",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigqueryapiaccount%40pd-prod-bristol-e0be.iam.gserviceaccount.com"
+}
